@@ -1,0 +1,37 @@
+ movies = [{
+         "movieName": "A Star Is Born",
+         "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+         "photo": "<img width=50% src=images/A_Star_Is_Born.jpg>",
+         "likes": "13"
+     },
+     {
+         "movieName": "Halloween",
+         "description": "A post-traumatic Laurie Strode who prepares to face Michael Myers in a final showdown on Halloween night.",
+         "photo": "<img width=50% src=images/Halloween.jpg>",
+         "likes": "11"
+     },
+     {
+         "movieName": "First Man",
+         "description": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon.",
+         "photo": "<img width=50% src=images/First_Man.jpg>",
+         "likes": "10"
+     },
+     {
+         "movieName": "Bad Times At The El Royale",
+         "description": "Set in 1969, the plot follows seven strangers each hiding dark secrets, who come together one night in a shady hotel on the California-Nevada border.",
+         "photo": "<img width=50% src=images/Bad_Times_At_The_El_Royale.jpg>",
+         "likes": "9"
+     },
+     {
+         "movieName": "Mandy",
+         "description": "The enchanted lives of a couple in a secluded forest are brutally shattered by a cult and their propelling a man into a spiraling, surreal rampage of vengeance.",
+         "photo": "<img width=50% src=images/Mandy.jpg>",
+         "likes": "8"
+     },
+     {
+         "movieName": "Crazy Rich Asians",
+         "description": "This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
+         "photo": "<img width=50% src=images/Crazy_Rich_Asians.jpg>",
+         "likes": "7"
+     }
+ ]

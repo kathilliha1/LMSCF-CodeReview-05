@@ -1,0 +1,85 @@
+header {
+    background-color: #000000;
+}
+
+.logo {
+    display: flex;
+    flex: 1px 1px 0;
+    border-radius: 10px;
+    height: 10%;
+}
+
+#main {
+    background-color: #1D2329;
+}
+
+h4 {
+    text-align: right;
+}
+
+#headline {
+    background-color: #1D2329;
+    column-count: 2;
+}
+
+.col-lg-5 {
+    background-color: #181818;
+}
+
+.lightgray {
+    background-color: lightgray;
+}
+
+footer {
+    background-color: #000000;
+}
+
+.cols {
+    background-color: #181818;
+    padding: 0.5rem;
+}
+
+.colorFont {
+    color: white;
+}
+
+button {
+    background-color: #181818;
+    color: #08D701;
+    border: 0;
+    font-size: 100%;
+    width: 50%;
+    vertical-align: baseline;
+    margin: 0;
+    background-color: #181818;
+    text-align: right;
+}
+
+.like {
+    width: 30%;
+}
+
+.counting {
+    background-color: #08D701;
+    border-radius: 50px;
+    border-color: black;
+    font-size: 100%;
+    padding: 3%;
+    width: 55%;
+}
+
+.description {
+    text-align: left;
+    column-count: 2;
+    font-size: 100%;    
+}
+
+.like-button {
+    margin: 0;
+    background-color: #181818;
+    text-align: right;
+}
+
+.picture {
+    text-align: center;
+}
